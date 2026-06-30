@@ -1,3 +1,6 @@
+<img width="1983" height="793" alt="lik_banner" src="https://github.com/user-attachments/assets/0b4968cd-9dbe-45ed-a404-977aac3a2038" />
+
+
 <div align="center">
 
 # Hi, I'm Chetan Sakate 👋
